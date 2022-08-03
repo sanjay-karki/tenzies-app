@@ -1,5 +1,5 @@
 # :game_die: Tenzies
-A simple tenzies app
+**A simple tenzies app**
 
 https://sanjay-karki.github.io/tenzies-app/
 
