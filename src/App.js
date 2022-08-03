@@ -74,7 +74,7 @@ export default function App() {
     <div className="numbers--container">
       {dieValue}
     </div> 
-    <button className="roll--btn" onClick={handleRollClick}>{tenzies? "New Game" : "Roll"}</button>    
+    <button className="roll--btn" onClick={handleRollClick}>{tenzies? "New Game" : "Roll"}</button>  
     </main>
     <footer>
       By <a href="https://www.linkedin.com/in/sanjay-karki9/" target="_blank" rel="noreferrer">Sanjay Karki</a>
