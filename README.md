@@ -3,7 +3,7 @@
 
 https://sanjay-karki.github.io/tenzies-app/
 <p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/106867464/184627455-c8dc94ec-9aaa-451b-8c78-7238993b8e0e.png" width="75%">
+<img src="https://user-images.githubusercontent.com/106867464/184630772-485b8345-1c00-4370-82f9-09909b298708.png" width="69%">
 </p>
 
 ## :page_with_curl:	Description
