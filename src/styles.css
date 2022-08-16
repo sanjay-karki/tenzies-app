@@ -10,7 +10,7 @@ body {
   display: grid;
   justify-content: center;
   align-items: center;
-  height: 95vh;
+  height: 90vh;
 }
 
 .main--container {
@@ -104,9 +104,5 @@ footer {
   .main--container {
     height: 400px;
     width: 360px;
-  }
-
-  .roll--btn:hover {
-    pointer-events: none;
   }
 }
